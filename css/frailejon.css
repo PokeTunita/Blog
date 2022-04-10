@@ -26,3 +26,35 @@ button{
     padding: 6px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, .6);
 }
+header{
+    background: linear-gradient(90deg, #ee8b00, #ff9900 , #ffb12c);
+    height: auto;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+    height: 100px;
+    transition: 0.5em;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    height: 100%;
+}
+
+section{
+    padding-top: 4rem;
+}
