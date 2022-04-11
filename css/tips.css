@@ -36,6 +36,12 @@ h1{
 section{
     padding-top: 4rem;
 }
+article{
+    display: inline-block;
+    width: 45%;
+    height: 45%;
+    padding: 1rem;
+}
 .titulo{
     font-family: cursive;
     font-weight: bold;
